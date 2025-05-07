@@ -1,6 +1,6 @@
 # Introdução ao Microsoft Azure e Conceitos de Cloud Computing
 
-Este repositório documenta os aprendizados iniciais sobre o Microsoft Azure e os conceitos fundamentais de Cloud Computing, conforme explorado no desafio da DIO.
+Este repositório documenta os aprendizados iniciais sobre o Microsoft Azure e os conceitos fundamentais de Cloud Computing, conforme explorado no Bootcamp da XP Inc. - Cloud com Inteligência Artificial para o primeiro desafio do curso disponibilizado pela DIO.
 
 **Principais Tópicos Abordados:**
 
